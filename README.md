@@ -1,9 +1,7 @@
 ### HELLO and WELCOME 
 
 **SalahEstwani/SalahEstwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="
-https://t4.ftcdn.net/jpg/00/71/66/69/360_F_71666993_tv6fg6VaVkbffuRA7KphW2S1eC9cm0XV.jpg
-" alt="cheese" class="img_food"> 
+<img src="https://t4.ftcdn.net/jpg/00/71/66/69/360_F_71666993_tv6fg6VaVkbffuRA7KphW2S1eC9cm0XV.jpg" alt="cheese" > 
 
 Here are some ideas to get you started:
 
