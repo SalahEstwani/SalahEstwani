@@ -1,6 +1,6 @@
 ### HELLO and WELCOME 
 
-**SalahEstwani/SalahEstwani** 
+
 <img src="https://github.com/SalahEstwani/SalahEstwani/assets/152214682/d294dd45-3e7e-4a79-90a2-9d7039b9c024" > 
 
 Here are some ideas to get you started:
